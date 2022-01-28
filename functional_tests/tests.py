@@ -111,5 +111,7 @@ class NewVisitorTest(LiveServerTestCase):
 
         # Satisfeitos, ambos vão dormir
 
+
+
 if __name__ == '__main__':  
     unittest.main()
