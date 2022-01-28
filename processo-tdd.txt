@@ -1,1 +1,6 @@
-TODO
+O processo começa com a necessidade de alteração na aplicação. Feita a alteração, fazemos o seguinte:
+
+* Rodar teste de unidade e, enquanto eles não passarem, continuar escrevendo pequenos trechos e ir consertando aos poucos
+* Quando o teste de unidade passar, tentar rodar o teste funcional.
+* Enquanto o teste funcional não passar, voltamos a alterar o código, só tentamos o teste funcional novamente quando os testes de unidade estiverem funcionando.
+* Repetimos esse processo até o teste funcional passar.
